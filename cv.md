@@ -16,6 +16,7 @@ Hello! I'm Sasha, a beginner front-end developer. I want to study this field. No
 * JavaScript (beginner)
 * Figma
 * Git
+* Photoshop
 ### Code example
 ```
 let iceCream = 'chocolate';
